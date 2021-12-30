@@ -5,7 +5,4 @@ def minus(a,b):
 def mul(a,b):
 	return a*b
 a
-
-c
-d
-ev
+bc
