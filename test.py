@@ -6,4 +6,5 @@ def mul(a,b):
 	return a*b
 add
 2
-3
+
+4
