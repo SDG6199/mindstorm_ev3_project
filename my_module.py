@@ -4,6 +4,4 @@ def minus(a,b):
 	return a-b
 def mul(a,b):
 	return a*b
-
-
-develop3
+develop1
