@@ -2,4 +2,5 @@ def add(a,b):
 	return a+b
 def minus(a,b):
 	return a-b
-asf
+def mul(a,b):
+	return a*b
