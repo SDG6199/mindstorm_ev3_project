@@ -12,3 +12,10 @@
 - 컬러센서3개
 - 모터3개
 - 자이로센서1개
+
+> 로봇사진
+![~]()
+
+> Demo
+
+[demo](https://user-images.githubusercontent.com/87747013/150390931-0375bde6-c68b-46da-b5b1-ac9ffcc31483.mp4)
